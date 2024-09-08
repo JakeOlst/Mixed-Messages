@@ -1,0 +1,23 @@
+html {
+    background-color: darkslategray;
+}
+
+#text-display {
+    text-align: center;
+    color:beige;
+}
+
+h1 {
+    font-size: 50px;
+    padding-bottom: 50px;
+}
+
+p {
+    font-size: 25px;
+    padding-bottom: 50px;
+}
+
+#message {
+    color:lightblue;
+    font-size: 30px;
+}
